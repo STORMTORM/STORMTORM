@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center"><img width="80%" alt="Greetings!" src="/images/hello.gif" /></p>
 
 <!--
