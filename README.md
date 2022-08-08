@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="/images/hello.gif" />
+<p align="center"><img width="80%" alt="Greetings!" src="/images/hello.gif" /></p>
 
 <!--
 **STORMTORM/STORMTORM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
