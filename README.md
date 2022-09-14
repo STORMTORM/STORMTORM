@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/stormtorm" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=stormtorm&title_color=FAAFBA&text_color=777&count_private=true&show_icons=true&icon_color=E75480&border_radius=20px&border_color=FAAFBA&" alt="Shubham's Stats" >
+    ![]https://discord.c99.nl/widget/theme-1/838382678629154877.png
   </a>
 </p>
 
